@@ -1,0 +1,2 @@
+SAU KHI THỬ NGHIỆM XONG THÌ PHẢI RA NGOÀI XÓA FILE DATA.txt và typing_stats.json
+VÌ NẾU KHÔNG XÓA THÌ LẦN SAU VÀO LẠI SẼ KHÔNG YÊU CẦU IMPORT FILE DỮ LIỆU NỮA MÀ DÙNG TIẾP DỮ LIỆU CŨ TỪ FILE DATA.txt BAO GỒM NHỮNG DỮ LIỆU ĐÃ ĐƯỢC THÊM THỦ CÔNG  
